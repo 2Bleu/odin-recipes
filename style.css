@@ -1,0 +1,12 @@
+#title {
+    color: #00f;
+}
+
+#title,
+.info {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    color: blueviolet;
+}
